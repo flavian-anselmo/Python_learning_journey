@@ -6,4 +6,15 @@ Using python
     *Lists
     *Tuples 
     *Dictionaries 
+    *sets
+    etc.......
+    *OBJECT ORIENTED PROGRAMMING
+ -Modules learnt:
+   *datetime
+   *calender
+   *tkinter
+   *os
+   *request
+   etc.......
+-iam learning evetryhting to do with python before i jump into web_dev or machine_learning   
     
